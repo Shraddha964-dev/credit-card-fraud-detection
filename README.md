@@ -4,6 +4,8 @@ End-to-end machine learning pipeline to detect fraudulent credit card transactio
 on a highly imbalanced real-world dataset (284,807 transactions, only 0.17% fraud).
 
 ---
+Dataset used: Credit Card Fraud Detection Dataset
+Source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
 
 ## 📌 Key Results
 
@@ -120,6 +122,4 @@ Built by **Shraddha Sajane** — Data Analyst with 3.5 years of experience
 in financial services (Temenos Kony Infinity banking platform).
 
 [LinkedIn](https://www.linkedin.com/in/shraddha-sajane) | [GitHub](https://github.com/Shraddha964-dev)
-# credit-card-fraud-detection
-# credit-card-fraud-detection
-# creditCard-fraud-detection
+
