@@ -116,10 +116,8 @@ jupyter notebook notebook.ipynb
 
 ---
 
-## 👩‍💻 About
+## 👩‍💻 About ME
 
-Built by **Shraddha Sajane** — Data Analyst with 3.5 years of experience  
-in financial services (Temenos Kony Infinity banking platform).
 I am actively seeking entry-level opportunities in Data Analyst and continuously building projects to strengthen my skills.
 
 If you have suggestions or feedback, feel free to share.
